@@ -1,0 +1,3 @@
+module CustomModule {
+    requires CalculatorModule;
+}
